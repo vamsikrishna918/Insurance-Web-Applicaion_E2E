@@ -7,9 +7,14 @@ This project front is based on simple HTML, CSS and Angular Js ad Backend is Jav
 
 In order to run the application use port ..
 
-Tools used to automate teh deployment 
+Tools used to automate the deployment 
+
 maven
+
 jenkins
+
 selenium
+
 docker and dockerhub
+
 ansible
