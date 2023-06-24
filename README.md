@@ -1,4 +1,4 @@
-# insurance-project
+# Insurance-project
 
 This project will help you to understand various concept related to Insurace domain. 
 Refer documentation.pdf to get more clarity on hte project. 
