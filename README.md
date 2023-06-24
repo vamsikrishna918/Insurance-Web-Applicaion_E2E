@@ -20,6 +20,5 @@ docker and dockerhub
 ansible
 
 
+![image](https://github.com/vamsikrishna918/Insurance-Web-Applicaion_E2E/assets/67264274/32bd8071-7f2b-4ef6-ad28-9f1589e140d7)
 
-
-![Untitled Diagram drawio](https://github.com/vamsikrishna918/Insurance-Web-Applicaion_E2E/assets/67264274/02a2fe3f-e363-4b67-bcc7-861d0280f60c)
