@@ -1,7 +1,7 @@
 # insurance-project
 
-This project will help you to understand various concept related to Insurace domain. Please read the Insurace-domain.pdf to get more functional knowledge on 
-Insurace domain. 
+This project will help you to understand various concept related to Insurace domain. 
+Refer documentation.pdf to get more clarity on hte project. 
 
 This project front is based on simple HTML, CSS and Angular Js and Backend is Java Spring Boot.
 
