@@ -9,15 +9,10 @@ In order to run the application use port 8084..
 
 Tools used to automate the deployment 
 
-maven
+maven, jenkins, selenium, docker & dockerhub, ansible
 
-jenkins
+Refer - https://github.com/vamsikrishna918/Selenium-TestAutomation-Insureme
 
-selenium
-
-docker and dockerhub
-
-ansible
 
 
 ![image](https://github.com/vamsikrishna918/Insurance-Web-Applicaion_E2E/assets/67264274/32bd8071-7f2b-4ef6-ad28-9f1589e140d7)
