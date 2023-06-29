@@ -17,5 +17,9 @@ Refer for automation test on insure me application - https://github.com/vamsikri
 
 
 
+![Screenshot 2023-06-29 225432](https://github.com/vamsikrishna918/Insurance-Web-Applicaion_E2E/assets/67264274/fd54f9d2-2c1a-4c3c-8a97-1f1fadc34fb4)
+
+
+
 ![image](https://github.com/vamsikrishna918/Insurance-Web-Applicaion_E2E/assets/67264274/32bd8071-7f2b-4ef6-ad28-9f1589e140d7)
 
