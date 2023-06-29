@@ -11,7 +11,9 @@ Tools used to automate the deployment
 
 maven, jenkins, selenium, docker & dockerhub, ansible
 
-Refer - https://github.com/vamsikrishna918/Selenium-TestAutomation-Insureme
+Detail Documentation -  https://github.com/vamsikrishna918/Insurance-Web-Applicaion_E2E/blob/main/Documentation.pdf
+
+Refer for automation test on insure me application - https://github.com/vamsikrishna918/Selenium-TestAutomation-Insureme
 
 
 
